@@ -69,7 +69,7 @@ the Result Below:
 | city       | review_count |
 +------------+--------------+
 | Las Vegas  |         3873 |
-| Montréal   |         1757 |
+| MontrÃ©al   |         1757 |
 | Gilbert    |         1549 |
 | Las Vegas  |         1410 |
 | Las Vegas  |         1389 |
